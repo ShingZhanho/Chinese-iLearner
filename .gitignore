@@ -1,0 +1,15 @@
+# Python Interpreter
+Interpreter/
+
+# PyInstall generated files
+build/
+dist/
+
+# Pycharm folders
+.idea/
+
+# Cache files
+__pycache__/
+
+# main.spec
+main.spec
